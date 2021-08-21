@@ -1,0 +1,16 @@
+insert into regiones (id, nombre) values ('1', 'Sudamerica');
+insert into regiones (id, nombre) values ('2', 'Centroamerica');
+insert into regiones (id, nombre) values ('3', 'Norteamerica');
+insert into regiones (id, nombre) values ('4', 'Europa');
+insert into regiones (id, nombre) values ('5', 'Asia');
+insert into regiones (id, nombre) values ('6', 'Africa');
+insert into regiones (id, nombre) values ('7', 'Oceania');
+insert into regiones (id, nombre) values ('8', 'Antartida');
+insert into clientes (region_id, nombre, apellido, email , create_at) values (1, 'andres', 'guzman','guzmann@gmail.com','2020-10-25');
+insert into clientes (region_id, nombre, apellido, email , create_at) values (2, 'juan', 'guzman','juan@gmail.com','2020-10-25');
+insert into clientes (region_id, nombre, apellido, email , create_at) values (3, 'miguel', 'guzman','miguel@gmail.com','2020-10-25');
+insert into clientes (region_id, nombre, apellido, email , create_at) values (4, 'adrian', 'guzman','adrian@gmail.com','2020-10-25');
+insert into clientes (region_id, nombre, apellido, email , create_at) values (5, 'jesus', 'guzman','jesus@gmail.com','2020-10-25');
+insert into clientes (region_id, nombre, apellido, email , create_at) values (6, 'rober', 'guzman','rober@gmail.com','2020-10-25');
+insert into clientes (region_id, nombre, apellido, email , create_at) values (7, 'llair', 'guzman','llair@gmail.com','2020-10-25');
+insert into clientes (region_id, nombre, apellido, email , create_at) values (8, 'matias', 'guzman','matias@gmail.com','2020-10-25');
